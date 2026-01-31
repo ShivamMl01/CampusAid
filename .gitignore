@@ -5,6 +5,3 @@
 # node modules
 node_modules/
 
-# build folders
-dist/
-build/
